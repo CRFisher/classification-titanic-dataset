@@ -1,0 +1,1 @@
+Predicting whether a person survived the Titanic, using Logistic Regression, Support Vector Machines, Random Forest Classifiers and Tensorflow 2.0 Artificial Neural Networks.
